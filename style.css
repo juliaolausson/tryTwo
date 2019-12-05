@@ -12,6 +12,10 @@ p {
 	font-family: 'Courier New', Courier, monospace;
 }
 
+h1 {
+	background-color: antiquewhite;
+}
+
 #top {
 	display: flex;
 	justify-content: space-between;
